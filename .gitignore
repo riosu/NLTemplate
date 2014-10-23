@@ -1,3 +1,15 @@
+NLTemplate.sdf
+NLTemplate.vcxproj.user
+NLTemplate.vcxproj.filters
 NLTemplate.xcodeproj/xcuserdata/
 NLTemplate.xcodeproj/project.xcworkspace/
+Debug/
+Release/
 .DS_Store
+*.aps
+*.opt
+*.clw
+*.ncb
+*.mak
+*.suo
+*.pdb
